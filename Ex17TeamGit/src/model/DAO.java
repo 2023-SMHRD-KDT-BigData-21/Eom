@@ -5,5 +5,8 @@ public class DAO {
 		
 	}
 	
+	public void getClose() {
+		
+	}
 
 }
