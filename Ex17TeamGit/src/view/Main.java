@@ -14,6 +14,8 @@ public class Main {
 		System.out.println("무언가ㅏ!");
 		
 		System.out.println("바꿔!");
+		
+		System.out.println("12:32분 변경");
 	}
 
 }
