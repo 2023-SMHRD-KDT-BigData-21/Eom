@@ -9,6 +9,9 @@ public class DAO {
 		
 	}
 	
+	public void lunch() {
+		System.out.println("배고파요");
+	}
 	
 
 }
