@@ -7,7 +7,7 @@ public class Main {
 		System.out.println("무언가를 출력해주는 main입니다");
 		System.out.println("형태만 만들어 보겠습니다 ");
 		System.out.println("프로젝트 생성");
-
+		
 		
 		System.out.println("나는 무너~");
 	}
