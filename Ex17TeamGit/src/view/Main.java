@@ -12,6 +12,8 @@ public class Main {
 		System.out.println("나는 무너~");
 		
 		System.out.println("무언가ㅏ!");
+		
+		System.out.println("바꿔!");
 	}
 
 }
