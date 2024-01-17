@@ -1,5 +1,7 @@
 package controller;
 
+import model.MemberVO;
+
 public class JoinController {
 
 	public String joinCon(MemberVO member) {
@@ -7,6 +9,8 @@ public class JoinController {
 		
 		
 		String result = null;
+		
+		
 		
 		return result;
 	}
